@@ -6,6 +6,7 @@
 ## How To Install
   - Clone this repository `git clone https://github.com/nursyahidke/test-nusantech.git`
   - Open terminal or CMD and install React JS using `npm install` or `yarn install`
+  - To start type `npm start` or `yarn start` and hit enter
   - Open http://localhost:3000 to view it in the browser.
 ## Screenshoots Calculator App
 | SUM     | SUBSTRACTION      | MULTIPLE      | DIVIDE      |
