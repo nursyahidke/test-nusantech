@@ -7,7 +7,7 @@
   - Clone this repository `git clone https://github.com/nursyahidke/test-nusantech.git`
   - Open terminal or CMD and install React JS using `npm install` or `yarn install`
   - Open http://localhost:3000 to view it in the browser.
-## Screenshoots
+## Screenshoots Calculator App
 | SUM     | SUBSTRACTION      | MULTIPLE      | DIVIDE      |
 |------------|-------------|------------|-------------|
 | <img src="https://raw.githubusercontent.com/nursyahidke/test-nusantech/master/src/images/plus.PNG" width="250"> | <img src="https://raw.githubusercontent.com/nursyahidke/test-nusantech/master/src/images/minus.PNG" width="250"> |<img src="https://raw.githubusercontent.com/nursyahidke/test-nusantech/master/src/images/multiple.PNG" width="250"> | <img src="https://raw.githubusercontent.com/nursyahidke/test-nusantech/master/src/images/divide.PNG" width="250"> |
