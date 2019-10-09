@@ -1,7 +1,7 @@
 # Calculator App Test At Nusantech
 ## Description
   Calculator App can sum, decrease, multiple and divide numbers with 2 or 3 input. You can choose wich one input field active using checklist inside of the field.
-## Build with technology
+## Build With Technology
   - [React JS](https://reactjs.org)
 ## How To Install
   - Clone this repository `git clone https://github.com/nursyahidke/test-nusantech.git`
